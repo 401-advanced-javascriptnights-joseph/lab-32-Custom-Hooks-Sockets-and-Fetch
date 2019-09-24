@@ -8,6 +8,8 @@ import './app.scss';
 
 function App(props) {
   return (
+    <>
+    <h1>Todo List</h1>
     <section>
       <div>
         <Todo />
@@ -16,6 +18,7 @@ function App(props) {
         <TodoList />
       </div>
     </section>
+    </>
   );
 }
 
