@@ -5,8 +5,8 @@
 ### Author: Joseph Hangarter / Mobbed with Jon & class
 
 ### Links and Resources
-* [Submission PR](http://xyz.com)
-* [Netlify](https://jovial-hermann-38ecfd.netlify.com/)
+* [Submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-32-Custom-Hooks-Sockets-and-Fetch/pull/4)
+* [Netlify](https://jovial-hermann-38ecfd.netlify.com)
 
 ### Modules
 ### src folder
