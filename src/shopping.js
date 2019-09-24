@@ -10,7 +10,7 @@ function Shopping(props) {
 
   function saveFormDataToServer(formData) {
     let json = JSON.stringify(formData);
-    fetch(API, {
+    fetch(API, { 
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
