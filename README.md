@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [Submission PR](http://xyz.com)
-* [Netlify](http://xyz.com)
+* [Netlify](https://jovial-hermann-38ecfd.netlify.com/)
 
 ### Modules
 ### src folder
@@ -14,7 +14,7 @@
 #### `app.js` - imported `shopping.js`, `todo.js`, & `todo-list.js`. Render to page; can swap from `shopping.js` or `todo.js`.
 #### `shopping.js` - `fetch` POST to shopping API. Utilizing hooks (`handleChange` & `handleSubmit`) from `form.js`.
 #### `todo.js` - `fetch` POST to shopping API. Utilizing hooks (`handleChange` & `handleSubmit`) from `form.js`.
-#### `todo-list.js` - imported `q.js` returns created message as a <ul>.
+#### `todo-list.js` - imported `q.js` returns created message as a `<ul>`.
 
 ### hooks folder
 #### `form.js` - where `handleChange` & `handleSubmit` hook functions lives in. 
@@ -53,7 +53,7 @@
 * Endpoint: `https://api-js401.herokuapp.com/api/v1/todo`
   * Returns a JSON object with text that was inputted, and if other categories were entered or picked.
 * Endpoint: `https://q-js401.herokuapp.com`
-  * Returns and renders a <ul> on the page with whatever was inputted as a todo.
+  * Returns and renders a `<ul>` on the page after listening for a subscription create with whatever was inputted as a todo.
   
 #### UML
 
