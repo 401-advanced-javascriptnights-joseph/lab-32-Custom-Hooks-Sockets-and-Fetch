@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [Submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-32-Custom-Hooks-Sockets-and-Fetch/pull/4)
-* [Netlify](https://jovial-hermann-38ecfd.netlify.com)
+* [Netlify](https://josephs-amazing-todo-list.netlify.com/)
 
 ### Modules
 ### src folder
